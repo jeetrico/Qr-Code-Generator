@@ -1,6 +1,7 @@
 # QR Code Generator
 
 This project allows users to generate QR codes for any given input text or data using Python.
+![Screenshot 2024-09-10 204823](https://github.com/user-attachments/assets/5463cb64-a296-4a43-82cf-645d190c5c65)
 
 ## Features
 
